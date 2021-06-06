@@ -25,3 +25,4 @@
 </ul>
 <h3>Link para o projeto:</h3>
 <a href="https://toodoliistt.netlify.app/" target="_blank">Acesse!</a>
+<a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
