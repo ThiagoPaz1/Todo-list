@@ -24,4 +24,4 @@
   </li>
 </ul>
 <h3>Link para o projeto:</h3>
-<a src="https://toodoliistt.netlify.app/" target="_blank">Acesse</a>
+<a href="https://toodoliistt.netlify.app/" target="_blank">Acesse!</a>
