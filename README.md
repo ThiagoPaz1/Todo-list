@@ -1,12 +1,10 @@
 <h2>Seja bem vindo!</h2>
 <h3>Sobre o projeto:</h3>
 <p>
-  Página web que contém uma paleta de cores funcional que 
-  poderá ser utilizada para criar desenhos em pixels.
+  Página web que contém uma lista de tarefas que 
+  poderá ser utilizada para adicionar, apagar, 
+  risca como feita, suas tareafas do dia a dia.
 </p>
-<video width="320" height="240" autoplay>
-   <source src="ezgif.com-gif-maker.mkv" type="video/mvk">
-</video>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>Javascript 
