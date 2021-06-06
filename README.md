@@ -24,4 +24,4 @@
   </li>
 </ul>
 <h3>Link para o projeto:</h3>
-https://pixelartt.netlify.app/
+https://toodoliistt.netlify.app/
