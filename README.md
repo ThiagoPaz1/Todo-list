@@ -5,7 +5,7 @@
   poderá ser utilizada para adicionar, apagar, 
   risca como feita, suas tareafas do dia a dia.
 </p>
-<img src="Captura de tela de 2021-06-06 14-36-07.png"/>
+<img width="200px" height="200px" src="Captura de tela de 2021-06-06 14-36-07.png"/>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>Javascript 
