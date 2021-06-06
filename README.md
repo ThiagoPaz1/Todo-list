@@ -4,7 +4,7 @@
   Página web que contém uma paleta de cores funcional que 
   poderá ser utilizada para criar desenhos em pixels.
 </p>
-<video>
+<video width="320" height="240" autoplay>
    <source src="ezgif.com-gif-maker.mkv" type="video/mvk">
 </video>
 <h3>Tecnologias utilizadas:</h3>
